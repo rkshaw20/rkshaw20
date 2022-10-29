@@ -1,10 +1,36 @@
-- 👋 Hi, I’m Raj Kishor Shaw
-- 👀 I’m interested in Java,Html,Css,Javacsript and react
-- 🌱 I’m currently learning Data Structure and web development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can mail me rkshaw2026gmail.com
+<h1 align="center">Hi 👋, I'm Raj Kishor Shaw</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rkshaw20&label=Profile%20views&color=0e75b6&style=flat" alt="rkshaw20" /> </p>
 
-<!---
-rkshaw20/rkshaw20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <a href="https://twitter.com/rajkishorshaw17" target="blank"><img src="https://img.shields.io/twitter/follow/rajkishorshaw17?logo=twitter&style=for-the-badge" alt="rajkishorshaw17" /></a> </p>
+
+- 🌱 I’m currently learning **JavaScript and React Native**
+
+- 👨‍💻 All of my projects are available at [https://rajkishor20.netlify.app/](https://rajkishor20.netlify.app/)
+
+- 📝 I regularly write articles on [https://dev.to/](https://dev.to/)
+
+- 💬 Ask me about **Web Dev**
+
+- 📫 How to reach me **rkshaw2026@gmail.com**
+
+- ⚡ Fun fact **It's not funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://dev.to/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/" height="30" width="40" /></a>
+<a href="https://twitter.com/rajkishorshaw17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajkishorshaw17" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/raj-kishor-shaw-636759144/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raj-kishor-shaw-636759144/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/rk_20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rk_20/" height="30" width="40" /></a>
+<a href="https://discord.gg/rajk#8685" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rajk#8685" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkshaw20&show_icons=true&locale=en&layout=compact" alt="rkshaw20" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rkshaw20&show_icons=true&locale=en" alt="rkshaw20" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkshaw20&" alt="rkshaw20" /></p>
